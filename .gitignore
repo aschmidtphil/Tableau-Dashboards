@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Tableau-specific temporary files
+*.hyper
+*.twb
+*.twbx
+
+# Ignore logs
+*.log
+
+# Ignore backups
+*.bak
