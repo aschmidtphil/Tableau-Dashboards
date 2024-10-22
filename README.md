@@ -10,7 +10,7 @@ This dashboard analyzes the relationship between sales and profit, allowing user
 ### 2. [Sales and Profit Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/SalesandProfitDashboard_17296207668300/Task1Dashboard2?publish=yes)
 An interactive exploration of sales and profit figures across various customer segments. This dashboard helps to uncover key trends in performance across different time periods, product lines, and segments.
 
-### 3. [Plot Experimentation Dashboard](https://public.tableau.com/authoring/PlotExperimentationDashboard/PlotExperimentation#1)
+### 3. [Plot Experimentation Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/PlotExperimentationDashboard/PlotExperimentation?publish=yes)
 This dashboard is an experimental exploration of various chart types to visualize data patterns effectively. It includes bar plots, bump charts, waterfall charts and other visualizations to compare and contrast different aspects of the data.
 
 ## Skills Demonstrated
