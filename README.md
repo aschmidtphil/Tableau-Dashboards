@@ -23,7 +23,7 @@ This dashboard is an experimental exploration of various chart types to visualiz
 ## Contact
 Feel free to reach out to me if you have any questions or feedback on the dashboards.
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/alexanderschmidt)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/alexander-schmidt/)
 - **Email**: [aschmidtphil@gmail.com](mailto:aschmidtphil@gmail.com)
 
 Thank you for visiting!
