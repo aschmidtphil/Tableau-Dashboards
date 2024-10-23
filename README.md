@@ -11,7 +11,10 @@ This dashboard analyzes the relationship between sales and profit, allowing user
 An interactive exploration of sales and profit figures across various customer segments. This dashboard helps to uncover key trends in performance across different time periods, product lines, and segments.
 
 ### 3. [Plot Experimentation Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/PlotExperimentationDashboard/PlotExperimentation?publish=yes)
-This dashboard is an experimental exploration of various chart types to visualize data patterns effectively. It includes bar plots, bump charts, waterfall charts and other visualizations to compare and contrast different aspects of the data.
+This dashboard is an experimental exploration of various chart types to visualize data patterns effectively. It includes bar plots, bump charts, waterfall charts, and other visualizations to compare and contrast different aspects of the data.
+
+### 4. [Clean and Impactful Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/SalesbyStateandSegmentDashboard/SalesbyStateandSegment?publish=yes)
+This dashboard aims to provide a clean and impactful visualization by maximizing the data-ink ratio. The design minimizes non-essential ink while highlighting key insights, ensuring that the data remains the focus. Users can easily identify trends and patterns through a streamlined presentation of data.
 
 ## Skills Demonstrated
 - Data Visualization (Tableau)
