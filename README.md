@@ -16,6 +16,11 @@ This dashboard is an experimental exploration of various chart types to visualiz
 ### 4. [Clean and Impactful Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/SalesbyStateandSegmentDashboard/SalesbyStateandSegment?publish=yes)
 This dashboard aims to provide a clean and impactful visualization by maximizing the data-ink ratio. The design minimizes non-essential ink while highlighting key insights, ensuring that the data remains the focus. Users can easily identify trends and patterns through a streamlined presentation of data.
 
+### 4. [Interactive Flight Data Dashboard](https://public.tableau.com/app/profile/alexander.schmidt1683/viz/DashboardFlightandWeatherDatafortwomontharoundStormElliot21_-26_12_2022forthe23mostaffectedairports/FlightandWeatherDatafortwomontharoundStormElliot21_-26_12_2022forthe23mostaffectedairports?publish=yes)
+In collaboration with my colleague Noah, this dashboard provides a detailed exploration of flight and weather data surrounding Storm Elliot (21–26 December 2022), focusing on the 23 airports most impacted. Featuring interactive maps and visualizations, this dashboard allows users to uncover patterns in flight disruptions and weather trends, offering a unique perspective on the effects of severe weather events on air travel.
+
+
+
 ## Skills Demonstrated
 - Data Visualization (Tableau)
 - Data Analysis & Insights
